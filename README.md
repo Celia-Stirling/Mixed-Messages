@@ -1,4 +1,4 @@
-#Christmas Mixed Messages#
+#Christmas Mixed Messages
 
 This project is my attempt at the **Codecademy Mixed Messages Project**.
 
